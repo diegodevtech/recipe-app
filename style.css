@@ -1,3 +1,31 @@
+body {
+  position: relative;
+}
+
+body::before {
+  content: "";
+  position: fixed;
+  inset: -20px;
+  background-image: linear-gradient(rgba(108, 78, 66, 0.7), rgba(108, 78, 66, 0.7)), url("assets/main-image.jpg");
+  background-size: cover;
+  background-position: center;
+  filter: blur(5px);
+  z-index: -1;
+}
+
+#page {
+  width: 800px;
+  padding: 1.5rem;
+  background-color: #F0E8C2;
+  border-radius: 1.5rem;
+  margin: 48px auto;
+  box-sizing: border-box;
+}
+
+#extraInfo p{
+  margin: 0px;
+}
+
 #image {
   border-radius: 1rem;
 }
