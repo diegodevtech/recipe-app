@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧁 Receipt App
+# 🧁 recipe App
 
 *A beautiful, responsive & accessible recipe page built with modern HTML & CSS*
 
@@ -30,10 +30,10 @@ STARRING: *Cupcake de café com chantilly — the perfect treat for your daily c
 
 ```bash
 # Clone the repository
-git clone https://github.com/diegodevtech/receipt-app.git
+git clone https://github.com/diegodevtech/recipe-app.git
 
 # Navigate into the project
-cd receipt-app
+cd recipe-app
 
 # Add the recipe image (required for full experience)
 # Place your cupcake image at: assets/main-image.jpg
@@ -180,7 +180,7 @@ h1 {
 ## 📁 Project Structure
 
 ```
-receipt-app/
+recipe-app/
 ├── index.html          # Single-page recipe
 ├── style.css           # All styles (tokens, layout, responsive, print)
 ├── assets/
