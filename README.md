@@ -6,9 +6,8 @@
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![Vanilla](https://img.shields.io/badge/Vanilla%20JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-*Cupcake de café com chantilly — the perfect treat for your daily coffee* ☕
+STARRING: *Cupcake de café com chantilly — the perfect treat for your daily coffee* ☕
 
 </div>
 
@@ -31,7 +30,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/receipt-app.git
+git clone https://github.com/diegodevtech/receipt-app.git
 
 # Navigate into the project
 cd receipt-app
@@ -42,6 +41,7 @@ cd receipt-app
 # Open in your browser
 # Option 1: Double-click index.html (simple)
 # Option 2: Use a local server (recommended for CORS/fonts)
+# Live Server extension is a great suggestion (runs at localhost:5500)
 
 # Using Python 3
 python3 -m http.server 8000
