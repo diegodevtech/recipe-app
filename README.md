@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧁 recipe App
+# 🧁 Recipe App
 
 *A beautiful, responsive & accessible recipe page built with modern HTML & CSS*
 
