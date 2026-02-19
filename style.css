@@ -1,3 +1,9 @@
+:root {
+  font-family: "Alice", sans-serif;
+  line-height: 150%;
+  color: #573A37;
+}
+
 body {
   position: relative;
 }
@@ -28,4 +34,17 @@ body::before {
 
 #image {
   border-radius: 1rem;
+}
+
+h1 {
+  line-height: 140%;
+  font-size: 2.5rem;
+}
+
+h2 {
+  font-size: 1.5rem;
+}
+
+h1,h2 {
+  color: #291B1A;
 }
